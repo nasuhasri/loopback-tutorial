@@ -1,7 +1,7 @@
 {
   "ids": {
     "Todo": 7,
-    "TodoList": 5
+    "TodoList": 6
   },
   "models": {
     "Todo": {
@@ -16,7 +16,8 @@
       "1": "{\"title\":\"Sith lord's check list\",\"color\":\"blue\",\"id\":1}",
       "2": "{\"title\":\"My daily chores\",\"color\":\"red\",\"id\":2}",
       "3": "{\"title\":\"grocery list\",\"color\":\"string\",\"id\":3}",
-      "4": "{\"title\":\"homework list\",\"color\":\"white\",\"id\":4}"
+      "4": "{\"title\":\"homework list\",\"color\":\"white\",\"id\":4}",
+      "5": "{\"title\":\"loopback-tuto\",\"color\":\"biru\",\"id\":5}"
     }
   }
 }

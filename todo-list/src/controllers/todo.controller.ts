@@ -21,6 +21,7 @@ import {
   requestBody,
   response
 } from '@loopback/rest';
+// import model dan repository
 import {Todo, TodoList} from '../models';
 import {TodoRepository} from '../repositories';
 
